@@ -14,7 +14,7 @@ tamuTeacherData is a tool for students who want to choose the best teacher based
 
 ## Calculating Score
 Scores are calculated through the following steps:
-
+> I am not a stats major. If anyone with more knowledge has a better method to offer, please open an issue and I'd be happy to apply it.
  1. Calculating the mean GPA and mean RMP in a department
  2. Calculating the Z-scores of GPA and RMP for individual teachers in the department
  3. Adjusting for grade inflation by comparing Z-scores of GPA and RMP
