@@ -18,7 +18,7 @@ Scores are calculated through the following steps:
  1. Calculating the mean GPA and mean RMP in a department
  2. Calculating the Z-scores of GPA and RMP for individual teachers in the department
  3. Adjusting for grade inflation by comparing Z-scores of GPA and RMP
- 4. Calculate the [Weighted Arithmetic Mean](https://en.wikipedia.org/wiki/Bayes_estimator#Example:_estimating_p_in_a_binomial_distribution) for each teacher based off the amount of votes that they have on RMP
+ 4. Calculate the [Weighted Arithmetic Mean](https://en.wikipedia.org/wiki/Bayes_estimator#Practical_example_of_Bayes_estimators) for each teacher based off the amount of votes that they have on RMP
  5. Score is 0.6 * adjustedGPA + 0.4 adjustedRMP
  6. Normalize the value to be between [0-10]
 
