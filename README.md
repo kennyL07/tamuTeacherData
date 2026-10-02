@@ -1,6 +1,6 @@
 
 # tamuTeacherData
-tamuTeacherData is a tool for students who want to choose the best teacher based on GPA and ratings from Rate My Professor(RMP)
+tamuTeacherData is a tool for Texas A&M @ College Station students who want to choose the best teacher based on GPA and ratings from Rate My Professor(RMP)
 
  - Data on grade distributions and sections of teachers are collected from https://anex.us/grades/
  - Ratings are collected from Rate My Professor using school code 1003
@@ -8,7 +8,7 @@ tamuTeacherData is a tool for students who want to choose the best teacher based
  ## Things to consider
 - Scores are weighted 60% GPA and 40% RMP
 	- If you value a RMP ratings over GPA, you may need to sort through the data through your own means
-- There are some courses are taught by TA's who do not stay for very long. Data on these courses are not very useful for choosing professors
+- There are some sections only taught by TA's who do not stay for very long. Data on these courses are not very useful for choosing professors
 - New teachers usually do not have ratings and will show up as unranked at the bottom
 - Scores calculated by me **do not reflect the teacher's performance** for the present year. Teacher's may improve and trend towards better practices that are not displayed by scores created from this program.
 
